@@ -1,11 +1,11 @@
 # 👟 Zen EliteStride Sales Dashboard
 
 ## 📊 Project Overview
-This project analyzes shoe sales data across multiple countries, brands, and product categories. Using **Excel** and **Power BI**, the dataset was cleaned, modeled, and visualized to uncover insights into sales performance, profitability, and customer preferences.
+This project analyzes shoe sales data for Zen Analytis across multiple countries, brands, and product categories. Using **Excel** and Sales analysis for Tech4Dev Women Initiative using **Power BI**, the dataset was cleaned, modeled, and visualized to uncover insights into sales performance, profitability, and customer preferences.
 
 ## 📂 Repository Contents
 - **Zen EliteStride Sales Dashboard.xlsx** → Raw dataset containing product details, sales transactions, and pricing information.  
-- **Zen EliteStride Sales Dashboard.pbix** → Power BI dashboard file with interactive visualizations.  
+- **Tech4Dev Sales Dashboard.pbix** → Power BI dashboard file with interactive visualizations.  
 - **images/** → Screenshots of dashboards for quick preview.  
 - **README.md** → Documentation explaining the project.  
 
